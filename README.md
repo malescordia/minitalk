@@ -1,9 +1,9 @@
-# Minitalk
+# minitalk
 
-Welcome to the Minitalk project repository by malescordia.
+Welcome to the minitalk project repository by malescordia.
 
 ## Overview
-Minitalk is a lightweight inter-process communication (IPC) project at 42. The goal is to create a client-server architecture, where the client sends a string message to the server using a minimalistic communication protocol. The project emphasizes signal handling and the intricacies of inter-process communication in a Unix environment.
+minitalk is a lightweight inter-process communication (IPC) project at 42. The goal is to create a client-server architecture, where the client sends a string message to the server using a minimalistic communication protocol. The project emphasizes signal handling and the intricacies of inter-process communication in a Unix environment.
 
 ## Project Highlights
 - Utilizes signals for communication between client and server.
@@ -21,4 +21,4 @@ Minitalk is a lightweight inter-process communication (IPC) project at 42. The g
 4. Launch the server in one terminal: `./server`
 5. In another terminal, launch the client with a message: `./client "Hello, Minitalk"`
 
-Enjoy exploring the world of Minitalk!
+Enjoy exploring the world of minitalk!
